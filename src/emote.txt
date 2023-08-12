@@ -45,6 +45,7 @@ https://cdn.7tv.app/emote/643b09c29137f98b004c7139/4x.webp aha41
 https://cdn.7tv.app/emote/643b0d27400b6139d090439c/4x.webp aha43
 https://cdn.7tv.app/emote/643b0e06276ae7890bd2c352/4x.webp aha45
 https://cdn.7tv.app/emote/643db10639b7f46dd13de595/4x.webp aha50
+https://cdn.7tv.app/emote/64cc0cfddf0c6affe0e1f49d/4x.webp aha100
 https://cdn.7tv.app/emote/647cd391cde3496c3985740b/4x.webp aha997
 https://cdn.7tv.app/emote/644af3dafa69b021b193b31d/4x.webp aha10056
 https://cdn.7tv.app/emote/6427f26fc529cbb0bb3b1995/4x.webp ahaDespair
